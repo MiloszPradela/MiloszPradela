@@ -24,6 +24,8 @@ Feel free to contact me through the following channels:
 ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=for-the-badge)
 ![Spring](https://img.shields.io/badge/spring%20-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white)
+![W3C Validation](https://img.shields.io/w3c-validation/:parser)
+
 
 ## Let's Connect!
 I'm always open to collaboration and new opportunities. I sincerely encourage you to reach out and connect with me!
