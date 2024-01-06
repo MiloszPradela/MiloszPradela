@@ -14,12 +14,14 @@ Welcome to my GitHub profile! I'm Miłosz, a student of applied computer science
 
 ## Contact
 Feel free to contact me through the following channels:
-- GitHub: [YourGitHubUsername](https://github.com/MiloszPradela)
+- GitHub: [MiloszPradela](https://github.com/MiloszPradela)
 - Email: milosz.pradela1@gmail.com
 
 ## Expertise
 ![React](https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Node.js](https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/logo-javascript-blue?logo=javascript)
+
 
 
 ## Let's Connect!
