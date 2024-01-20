@@ -1,5 +1,5 @@
 ## WELCOME
-Welcome to my GitHub profile! I'm Miłosz, a student of applied computer science in Cracow at WSEI. I have a passion for creatively programming interesting things. My programming skills are continually evolving, driven by self-learning and a strong desire for continuous development.
+I'm Miłosz, a student of applied computer science in Cracow at WSEI. I have a passion for creatively programming interesting things. My programming skills are continually evolving, driven by self-learning and a strong desire for continuous development.
 
 ---
 
